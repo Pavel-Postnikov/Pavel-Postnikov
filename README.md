@@ -21,7 +21,20 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
 </p>
 <br />
-
+<p>
+В процессе обучения получил следующие ключевые знания и навыки:
+- HTML5 / CSS3 (включая работу с SCSS, Pug).
+- Javascript/ES6 (включая библиотеки React/Redux). Опыт работы с Typescript.
+- Навыки и знания по работе с модульной системой ES6 (import, export).
+- Навык работы с библиотекой Material UI
+- Знания по сборке проектов с помощью Webpack.
+- Умение работать с пакетным менеджером npm, npx, yarn.
+- Базовые знания NodeJS.
+- Понимание работы HTTP.
+- Понимание работы REST API.
+- Знания и опыт работы с асинхронным кодом (AJAX, Promise).
+- Умение находить решение любой задачи через документацию и дополнительные источники.
+</p>
 ### :trophy: Прогресс:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Xroniks/badges/large)](https://www.codewars.com/users/Xroniks)
 
